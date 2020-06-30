@@ -1,0 +1,4 @@
+#Tue Jun 30 17:54:11 BRT 2020
+base.0=/home/dev-th_henrique/Área de Trabalho/StartFlutter/startingflutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
